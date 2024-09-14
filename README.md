@@ -8,7 +8,7 @@
 <p>
   Olá 👋, Eu sou Marcos! Um estudante de desenvolvimento de software no Brasil.
 
-  - 🌱 Atualmente estou estudando Analise e Desenvolvimento de Sistemas na Estacio <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
