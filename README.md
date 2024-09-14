@@ -8,7 +8,7 @@
 <p>
   Olá 👋, Eu sou Marcos! Um estudante de desenvolvimento de software no Brasil.
 
-  - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio.
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
@@ -32,11 +32,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [JavaScri - Relógio Digital](https://markscandian.github.io/relogiodigitalmp/)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
-
+- [JavaScript - Relógio Digital](https://markscandian.github.io/relogiodigitalmp/)
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
