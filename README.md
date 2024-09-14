@@ -10,7 +10,7 @@
 
   - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar nesse mundo da tecnologia.
 </p>
 
 <!-- Dropdown -->
