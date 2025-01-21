@@ -48,10 +48,6 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
-<div>
-  
-</div>
-  ![Golden Hour](https://spotify-recently-played-readme.vercel.app/api?user=xaviermarcos296&unique={true|1|on|yes})
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
