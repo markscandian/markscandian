@@ -28,15 +28,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-scandian-75321b20a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!-- GithubStats -->
-
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
 
 <!-- Portfolio -->
 ## Portfolio:
 - [JavaScript - Relógio Digital](https://markscandian.github.io/relogiodigitalmp/)
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
