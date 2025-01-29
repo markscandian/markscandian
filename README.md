@@ -17,9 +17,9 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 Tenho 23 anos e atualmente moro no Brasil. Tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. Também sou criador de conteúdo no YouTube desde 2018, o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, marketing, capacidade analítica, gestão de comunidades e mídias sociais.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
 <!-- Links -->
